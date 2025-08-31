@@ -1,6 +1,5 @@
 name: "⚠ 错误报告"
 description: "启动器出现闪退、卡死、不正常运行或弹出了报错窗口"
-type: "崩溃"
 body:
 - type: checkboxes
   id: "yml-1"
